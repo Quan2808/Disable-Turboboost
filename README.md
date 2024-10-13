@@ -32,6 +32,3 @@ This script is designed to disable Turbo Boost on your Windows system and guide 
 
 ## Disclaimer
 This script modifies system settings and the registry. Use it at your own risk. The author is not responsible for any unintended consequences.
-
-## Support
-For any issues or questions, please contact [Your Contact Information].
